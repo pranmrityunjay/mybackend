@@ -1,0 +1,17 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "d",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai",
+    "or",
+    "code",
+    "backend"
+  ],
+  "author": "mrityunjay",
+  "license": "ISC"
+}
